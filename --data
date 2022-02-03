@@ -1,0 +1,11 @@
+[
+    {
+        "nombre": "Juan",
+        "edad": 20
+    },
+    {
+        "nombre": "Pedro",
+        "edad": 30
+    }
+]--_curl_--"Nombre": "carl"
+--_curl_--"Edad": 25
